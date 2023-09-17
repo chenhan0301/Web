@@ -7,11 +7,11 @@
 # >課程筆記區:pencil2:
 
 9/12
-- [ ]使用Bootstrap尋找個人簡介範例
+- 使用Bootstrap尋找個人簡介範例
 
-- [ ]連動Github Desktop與網頁
+- 連動Github Desktop與網頁
 
-- [ ]加上CSS與JavaScript功能
+- 加上CSS與JavaScript功能
 # >作業連結區:scroll:
 
 HW1:[MyWebsite](https://chenhan0301.github.io/Myweb/)
