@@ -6,7 +6,7 @@
 系級：科技系2年級
 # >課程筆記區:pencil2:
 
-9/5((Week 1))
+9/5 (Week 1)
 - 課程簡介
 
 - 建立node.js以及VScode環境
@@ -14,7 +14,7 @@
 - 架設個人Github課程專題
 
   
-9/12(Week 2)
+9/12 (Week 2)
 - 使用Bootstrap尋找個人網頁範例檔案
 
 - 連動Github Desktop與網頁並使用VScode編輯
