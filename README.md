@@ -28,6 +28,6 @@ HW2:[建立動態網頁](https://youtu.be/SoDnqAQMzNw)
 
 HW3:[建立動態網頁2](https://youtu.be/C3uOUTJyo-c)
 
-HW4:[Azure website](https://youtu.be/C3uOUTJyo-c)
+HW4:[Azure website](https://youtu.be/LTeqi0vVTp4)
 # >專題連結區:page_with_curl:
 
